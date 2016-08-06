@@ -1,0 +1,35 @@
+header {
+	text-align: center;
+}
+
+.block {
+	width : auto;
+	height: 300px;
+}
+.items {
+	border: solid black 2px;
+	height: 150px;
+	width: 25%;
+    margin: 20px 30px 20px 30px;
+    float : left;
+    position : relative;
+    background-color: lightgrey;
+}
+.borderText {
+	border : solid black 2px;
+	height : 30px;
+	width : 30%;
+    float: right;
+    position: relative; 
+p {
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 12px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.Chicken {
+	 
+text-align: center;
+background-color: #C2185;
+}
+
